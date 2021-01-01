@@ -94,7 +94,7 @@ namespace Mission_Impizzable2
             {
                 int itemId = newOrder.Items[i][0];
                 string itemSize = ((PizzaSize)newOrder.Items[i][1]).ToString();
-                string itemCrust = ((PizzaCrust)newOrder.Items[i][1]).ToString();
+                string itemCrust = ((PizzaCrust)newOrder.Items[i][2]).ToString();
                 int itemQuantity = newOrder.Items[i][3];
 
                 UserIO.PrintPretty($"{itemQuantity} stuks", 15, $"{Pizza_Manager.GlobalPizzas[itemId].Name}", 30, $"{itemSize}", 45, $"{itemCrust}", 60, $"{newOrder.ItemPrice[i]}", true);
