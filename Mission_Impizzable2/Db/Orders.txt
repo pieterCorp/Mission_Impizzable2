@@ -1,0 +1,14 @@
+{"Id":0,"Date":"2020-12-31T00:54:27.2393641+01:00","TotalPrice":10,"ItemCount":1,"ItemsArray":[[0,1,1,1]],"ItemPriceArray":[10]}
+{"Id":1,"Date":"2022-12-31T00:54:56.6191062+01:00","TotalPrice":10.75,"ItemCount":1,"ItemsArray":[[6,1,1,1]],"ItemPriceArray":[10.75]}
+{"Id":2,"Date":"2020-12-30T02:13:29.6696903+01:00","TotalPrice":45.25,"ItemCount":4,"ItemsArray":[[0,1,1,1],[6,2,2,3]],"ItemPriceArray":[10,35.25]}
+{"Id":3,"Date":"2020-12-31T04:01:04.0547281+01:00","TotalPrice":36,"ItemCount":3,"ItemsArray":[[0,1,1,1],[2,2,2,2]],"ItemPriceArray":[10,26]}
+{"Id":4,"Date":"2020-12-31T04:39:06.3922677+01:00","TotalPrice":85,"ItemCount":5,"ItemsArray":[[1,3,3,5]],"ItemPriceArray":[85]}
+{"Id":5,"Date":"2020-12-31T05:07:32.375729+01:00","TotalPrice":10,"ItemCount":1,"ItemsArray":[[0,1,1,1]],"ItemPriceArray":[10]}
+{"Id":6,"Date":"2020-12-31T05:58:53.0319106+01:00","TotalPrice":50,"ItemCount":4,"ItemsArray":[[0,1,1,1],[1,1,1,1],[2,2,3,2]],"ItemPriceArray":[10,10,30]}
+{"Id":7,"Date":"2020-12-29T06:20:20.9927405+01:00","TotalPrice":44.25,"ItemCount":3,"ItemsArray":[[6,3,3,3]],"ItemPriceArray":[44.25]}
+{"Id":8,"Date":"2021-12-31T09:33:09.5346132+01:00","TotalPrice":10,"ItemCount":1,"ItemsArray":[[0,1,1,1]],"ItemPriceArray":[10]}
+{"Id":9,"Date":"2018-12-31T09:35:30.819669+01:00","TotalPrice":74,"ItemCount":7,"ItemsArray":[[0,2,2,2],[4,1,1,5]],"ItemPriceArray":[24,50]}
+{"Id":10,"Date":"1830-12-31T09:40:52.5958987+01:00","TotalPrice":75,"ItemCount":5,"ItemsArray":[[1,3,2,5]],"ItemPriceArray":[75]}
+{"Id":11,"Date":"2020-12-31T10:06:15.051386+01:00","TotalPrice":37,"ItemCount":3,"ItemsArray":[[0,1,1,1],[5,2,2,2]],"ItemPriceArray":[10,27]}
+{"Id":12,"Date":"2021-01-01T05:18:27.4346826+01:00","TotalPrice":50,"ItemCount":3,"ItemsArray":[[0,1,1,1],[4,2,2,2]],"ItemPriceArray":[10,40]}
+{"Id":13,"Date":"2021-01-01T09:44:23.7281474+01:00","TotalPrice":58,"ItemCount":5,"ItemsArray":[[1,1,2,1],[2,1,2,1],[1,1,1,1],[2,2,2,2]],"ItemPriceArray":[10,12,10,26]}

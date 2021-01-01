@@ -1,0 +1,8 @@
+{"Id":0,"Name":"hawai","PriceSmall":10,"PriceMedium":12,"PriceLarge":15,"Ingredients":[1,3],"Veggy":true,"Size":0,"Crust":0}
+{"Id":1,"Name":"margareta","PriceSmall":10,"PriceMedium":12,"PriceLarge":15,"Ingredients":[4,0,1],"Veggy":true,"Size":0,"Crust":0}
+{"Id":2,"Name":"pepper","PriceSmall":12,"PriceMedium":13,"PriceLarge":14,"Ingredients":[0,1,3,4,5],"Veggy":false,"Size":0,"Crust":0}
+{"Id":3,"Name":"salami","PriceSmall":12,"PriceMedium":15,"PriceLarge":16,"Ingredients":[6,5,4,0,1],"Veggy":false,"Size":0,"Crust":0}
+{"Id":4,"Name":"Eipizza","PriceSmall":10,"PriceMedium":20,"PriceLarge":30,"Ingredients":[7],"Veggy":true,"Size":0,"Crust":0}
+{"Id":5,"Name":"pizza special","PriceSmall":12.5,"PriceMedium":13.5,"PriceLarge":14.5,"Ingredients":[0,1,9],"Veggy":true}
+{"Id":6,"Name":"Pizza Zot","PriceSmall":10.75,"PriceMedium":11.75,"PriceLarge":12.75,"Ingredients":[0,1,2,3,4,5,6,7,8,9],"Veggy":false}
+{"Id":7,"Name":"test","PriceSmall":10,"PriceMedium":12,"PriceLarge":15,"Ingredients":[1,3,11],"Veggy":false}

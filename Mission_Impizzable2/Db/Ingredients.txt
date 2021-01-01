@@ -1,0 +1,12 @@
+{"Id":0,"Name":"saus","Quantity":100}
+{"Id":1,"Name":"kaas","Quantity":93}
+{"Id":2,"Name":"ananas","Quantity":125}
+{"Id":3,"Name":"ham","Quantity":32}
+{"Id":4,"Name":"bodem","Quantity":68}
+{"Id":5,"Name":"pepers","Quantity":42}
+{"Id":6,"Name":"salami","Quantity":71}
+{"Id":7,"Name":"ei","Quantity":51}
+{"Id":8,"Name":"kip","Quantity":175}
+{"Id":9,"Name":"tomaat","Quantity":57}
+{"Id":10,"Name":"margareta","Quantity":50}
+{"Id":11,"Name":"kruiden","Quantity":50}
