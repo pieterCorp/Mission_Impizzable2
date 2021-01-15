@@ -12,3 +12,4 @@
 {"Id":11,"Date":"2020-12-31T10:06:15.051386+01:00","TotalPrice":37,"ItemCount":3,"ItemsArray":[[0,1,1,1],[5,2,2,2]],"ItemPriceArray":[10,27]}
 {"Id":12,"Date":"2021-01-01T05:18:27.4346826+01:00","TotalPrice":50,"ItemCount":3,"ItemsArray":[[0,1,1,1],[4,2,2,2]],"ItemPriceArray":[10,40]}
 {"Id":13,"Date":"2021-01-01T09:44:23.7281474+01:00","TotalPrice":58,"ItemCount":5,"ItemsArray":[[1,1,2,1],[2,1,2,1],[1,1,1,1],[2,2,2,2]],"ItemPriceArray":[10,12,10,26]}
+{"Id":14,"Date":"2021-01-15T11:03:46.8543813+01:00","TotalPrice":60,"ItemCount":3,"ItemsArray":[[4,2,2,3]],"ItemPriceArray":[60]}

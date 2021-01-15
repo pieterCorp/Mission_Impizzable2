@@ -255,50 +255,42 @@ namespace Mission_Impizzable2
 
         static public void PrintRed(string stringToPrint)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(stringToPrint);
-            Console.ResetColor();
+            PrintColor(stringToPrint, ConsoleColor.Red);
         }
 
         static public void PrintBlue(string stringToPrint)
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine(stringToPrint);
-            Console.ResetColor();
+            PrintColor(stringToPrint, ConsoleColor.Blue);
         }
 
         static public void PrintGreen(string stringToPrint)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine(stringToPrint);
-            Console.ResetColor();
+            PrintGreen(stringToPrint, true);
         }
 
         static public void PrintGreen(string stringToPrint, bool newLine)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            if (newLine)
-            {
-                Console.WriteLine(stringToPrint);
-            }
-            else
-            {
-                Console.Write(stringToPrint);
-            }
-            Console.ResetColor();
+            PrintColor(stringToPrint, ConsoleColor.Green, newLine);
         }
 
         static public void PrintYellow(string stringToPrint)
         {
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(stringToPrint);
-            Console.ResetColor();
+            PrintColor(stringToPrint, ConsoleColor.Yellow);
         }
         static public void PrintDarkRed(string stringToPrint)
         {
-            Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine(stringToPrint);
+            PrintColor(stringToPrint, ConsoleColor.Red);
+        }
+
+       static private void PrintColor(string stringToPrint, ConsoleColor color, bool newLine = true)
+        {
+            Console.ForegroundColor = color;
+            Console.Write(stringToPrint);
             Console.ResetColor();
+            if (newLine)
+            {
+                Console.WriteLine();
+            }
         }
     }
 }

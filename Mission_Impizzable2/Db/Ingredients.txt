@@ -5,7 +5,7 @@
 {"Id":4,"Name":"bodem","Quantity":68}
 {"Id":5,"Name":"pepers","Quantity":42}
 {"Id":6,"Name":"salami","Quantity":71}
-{"Id":7,"Name":"ei","Quantity":51}
+{"Id":7,"Name":"ei","Quantity":45}
 {"Id":8,"Name":"kip","Quantity":175}
 {"Id":9,"Name":"tomaat","Quantity":57}
 {"Id":10,"Name":"margareta","Quantity":50}
